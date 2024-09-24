@@ -1,0 +1,6 @@
+MongoDB User credentials
+Username: moizwaseem94
+Password: fRONUNNocPkohJdg
+
+Connection String
+mongodb+srv://moizwaseem94:fRONUNNocPkohJdg@cluster0.uyfmp.mongodb.net/ 

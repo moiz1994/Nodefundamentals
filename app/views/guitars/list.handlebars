@@ -1,0 +1,8 @@
+<h2>{{title}}</h2>
+<ul>
+  {{#each guitars}}
+    <li>
+      <a href="/guitars/{{this.id}}">{{this.make}} {{this.model}}</a>
+    </li>
+  {{/each}}
+</ul>
